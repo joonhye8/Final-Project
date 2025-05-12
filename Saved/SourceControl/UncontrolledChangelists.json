@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/12149/OneDrive/Documents/Unreal Projects/FINAL PROJECT/Final-Project/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/12149/OneDrive/Documents/Unreal Projects/FINAL PROJECT/Final-Project/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/12149/OneDrive/Documents/Unreal Projects/FINAL PROJECT/Final-Project/Content/Untitled.umap",
+				"C:/Users/12149/OneDrive/Documents/Unreal Projects/FINAL PROJECT/Final-Project/Content/DoorBP/Instructions.uasset",
+				"C:/Users/12149/OneDrive/Documents/Unreal Projects/FINAL PROJECT/Final-Project/Content/Instructions.uasset",
+				"C:/Users/12149/OneDrive/Documents/Unreal Projects/FINAL PROJECT/Final-Project/Content/NewBlueprint.uasset"
 			]
 		}
 	]
